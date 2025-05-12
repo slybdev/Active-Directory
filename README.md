@@ -4,7 +4,6 @@
 The goal of this project was to build a controlled lab environment simulating real-world enterprise systems and security monitoring workflows. I integrated a Windows Active Directory domain, deployed a SIEM (Splunk), and performed attacks using a Kali Linux machine. The objective was to detect and analyze security events like brute-force attacks and simulate adversary techniques using Atomic Red Team.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Building and configuring enterprise-like environments (AD, DNS, static IPs)
 - Log ingestion and parsing in Splunk from Windows endpoints
